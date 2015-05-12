@@ -26,8 +26,9 @@ npm install
 
 ## Usage
 
-grunt serve - for dev version
-grunt serve:dist - for run distribution version
+grunt serve - for running dev version
+
+grunt serve:dist - for running production version
 
 ## TODO
 - Some testing
