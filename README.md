@@ -20,8 +20,11 @@ I have created a login system on top of the chart so the users can log in (just 
 ## Installation
 
 Install git & node if you haven't done it already!
+
 git clone git clone https://github.com/frannunezrivera/react-chat.git
+
 cd react-chat
+
 npm install
 
 ## Usage
